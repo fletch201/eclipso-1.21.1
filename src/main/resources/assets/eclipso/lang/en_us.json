@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Raw Eclipsium",
+  "item.eclipso.eclipsium": "Eclipsium",
+  "block.eclipso.block_of_eclipsium": "Block of Eclipsium",
+  "block.eclipso.eclipsium_ore": "Eclipsium ore",
+  "itemGroup.eclipso_tab": "Eclipso",
+
+  "eclipso.configuration.title": "Eclipso Configs",
+  "eclipso.configuration.section.eclipso.common.toml": "Eclipso Configs",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Eclipso Configs",
+  "eclipso.configuration.items": "Item List",
+  "eclipso.configuration.logDirtBlock": "Log Dirt Block",
+  "eclipso.configuration.magicNumberIntroduction": "Magic Number Text",
+  "eclipso.configuration.magicNumber": "Magic Number"
+}

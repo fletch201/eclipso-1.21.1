@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "eclipso:block/block_of_eclipsium"
+  }
+}

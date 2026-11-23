@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 125,
+  "experience": 1.75,
+  "group": "eclipsium",
+  "ingredient": {
+    "item": "eclipso:eclipsium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "eclipso:raw_eclipsium"
+  }
+}

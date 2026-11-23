@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 1.0,
+  "group": "eclipsium",
+  "ingredient": {"item": "eclipso:eclipsium_ore"},
+  "result": {
+    "count": 1,
+    "id": "eclipso:raw_eclipsium"
+  }
+}

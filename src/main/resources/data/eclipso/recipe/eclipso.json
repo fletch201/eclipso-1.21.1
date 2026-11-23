@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "eclipso:block_of_eclipsium"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "eclipso:eclipsium"
+  }
+}
