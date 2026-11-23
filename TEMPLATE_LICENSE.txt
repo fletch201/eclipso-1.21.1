@@ -1,24 +1,33 @@
-MIT License
+Copyright © 2026 Fletch201. All rights reserved.
 
-Copyright (c) 2023 NeoForged project
+This license applies to the Minecraft mod Eclipso, including its source code, assets, textures, models, sounds, configuration files, and documentation.
 
-This license applies to the template files as supplied by github.com/NeoForged/MDK
+1. DISTRIBUTION
+The Mod may be distributed only through official channels authorized by the copyright holder (e.g. CurseForge, Modrinth, GitHub Releases, as applicable). No one other than the
+ copyright holder may re-upload, mirror, or host the Mod's files on another site or platform without prior written permission.
 
+2. MODPACKS
+You MAY include this Mod, unmodified, in a modpack, provided that:
+- The modpack does not charge money for access to the Mod itself,
+- The Mod is downloaded through the standard modpack installer/launcher process (e.g. CurseForge, Modrinth, or a similar modpack platform) rather than being re-hosted or bundled as a standalone redistributed file.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+3. VIDEOS, STREAMS & MEDIA
+You MAY use, showcase, or feature this Mod in YouTube videos, livestreams, screenshots, and other media (including monetized content), provided that:
+- The Mod itself is not the primary product being sold or distributed (e.g. you are not selling direct copies of the Mod file),
+- Reasonable credit is given to the original author where practical (e.g. in the video description).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+4. MODIFICATION
+You may NOT modify, decompile, reverse-engineer, or create derivative works based on the Mod, and then distribute those derivatives, without prior written permission from the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+5. WHAT YOU MAY NOT DO
+Without prior written permission from the copyright holder, you may not:
+- Sell the Mod or charge for access to it,
+- Re-upload or re-host the Mod's files outside the platforms the copyright holder has authorized,
+- Claim authorship or ownership of the Mod or its assets.
+
+6. DISCLAIMER
+This Mod is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose,
+ and noninfringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the Mod.
+
+7. TRADEMARK NOTICE
+Minecraft is a trademark of Mojang Studios / Microsoft. This Mod is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
