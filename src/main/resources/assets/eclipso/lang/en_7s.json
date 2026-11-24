@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Raw Eclipsium, Arrr",
+  "item.eclipso.eclipsium": "Eclipsium Booty",
+  "block.eclipso.block_of_eclipsium": "Block o' Eclipsium Treasure",
+  "block.eclipso.eclipsium_ore": "Eclipsium Ore, Arrr",
+  "itemGroup.eclipso_tab": "Eclipso's Plunder",
+
+  "eclipso.configuration.title": "Eclipso's Charts",
+  "eclipso.configuration.section.eclipso.common.toml": "Eclipso's Charts",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Eclipso's Charts",
+  "eclipso.configuration.items": "List o' Booty",
+  "eclipso.configuration.logDirtBlock": "Log th' Dirt Block",
+  "eclipso.configuration.magicNumberIntroduction": "Magic Number Yarn",
+  "eclipso.configuration.magicNumber": "Magic Number"
+}

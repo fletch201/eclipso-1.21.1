@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Необработанный эклипсий",
+  "item.eclipso.eclipsium": "Эклипсий",
+  "block.eclipso.block_of_eclipsium": "Блок эклипсия",
+  "block.eclipso.eclipsium_ore": "Руда эклипсия",
+  "itemGroup.eclipso_tab": "Eclipso",
+
+  "eclipso.configuration.title": "Настройки Eclipso",
+  "eclipso.configuration.section.eclipso.common.toml": "Настройки Eclipso",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Настройки Eclipso",
+  "eclipso.configuration.items": "Список предметов",
+  "eclipso.configuration.logDirtBlock": "Записывать блок земли",
+  "eclipso.configuration.magicNumberIntroduction": "Вводный текст магического числа",
+  "eclipso.configuration.magicNumber": "Магическое число"
+}

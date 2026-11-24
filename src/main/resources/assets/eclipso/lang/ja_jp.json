@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "生エクリプシウム",
+  "item.eclipso.eclipsium": "エクリプシウム",
+  "block.eclipso.block_of_eclipsium": "エクリプシウムブロック",
+  "block.eclipso.eclipsium_ore": "エクリプシウム鉱石",
+  "itemGroup.eclipso_tab": "エクリプソ",
+
+  "eclipso.configuration.title": "Eclipso設定",
+  "eclipso.configuration.section.eclipso.common.toml": "Eclipso設定",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Eclipso設定",
+  "eclipso.configuration.items": "アイテムリスト",
+  "eclipso.configuration.logDirtBlock": "土ブロックのログ記録",
+  "eclipso.configuration.magicNumberIntroduction": "マジックナンバーの説明文",
+  "eclipso.configuration.magicNumber": "マジックナンバー"
+}

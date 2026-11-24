@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Raw Eclipsium",
+  "item.eclipso.eclipsium": "Eclipsium",
+  "block.eclipso.block_of_eclipsium": "Block o' Eclipsium",
+  "block.eclipso.eclipsium_ore": "Eclipsium Ore, Fair Dinkum",
+  "itemGroup.eclipso_tab": "Eclipso",
+
+  "eclipso.configuration.title": "Eclipso Configs, Mate",
+  "eclipso.configuration.section.eclipso.common.toml": "Eclipso Configs",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Eclipso Configs",
+  "eclipso.configuration.items": "Item List, No Worries",
+  "eclipso.configuration.logDirtBlock": "Log Dirt Block",
+  "eclipso.configuration.magicNumberIntroduction": "Magic Number Text",
+  "eclipso.configuration.magicNumber": "Magic Number"
+}

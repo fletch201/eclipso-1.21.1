@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Eclipsium en bruto",
+  "item.eclipso.eclipsium": "Eclipsium",
+  "block.eclipso.block_of_eclipsium": "Bloque de eclipsium",
+  "block.eclipso.eclipsium_ore": "Mena de eclipsium",
+  "itemGroup.eclipso_tab": "Eclipso",
+
+  "eclipso.configuration.title": "Configuración de Eclipso",
+  "eclipso.configuration.section.eclipso.common.toml": "Configuración de Eclipso",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Configuración de Eclipso",
+  "eclipso.configuration.items": "Lista de objetos",
+  "eclipso.configuration.logDirtBlock": "Registrar bloque de tierra",
+  "eclipso.configuration.magicNumberIntroduction": "Texto de introducción del número mágico",
+  "eclipso.configuration.magicNumber": "Número mágico"
+}

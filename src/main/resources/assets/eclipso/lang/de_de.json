@@ -1,0 +1,15 @@
+{
+  "item.eclipso.raw_eclipsium": "Rohes Eclipsium",
+  "item.eclipso.eclipsium": "Eclipsium",
+  "block.eclipso.block_of_eclipsium": "Eclipsiumblock",
+  "block.eclipso.eclipsium_ore": "Eclipsiumerz",
+  "itemGroup.eclipso_tab": "Eclipso",
+
+  "eclipso.configuration.title": "Eclipso-Einstellungen",
+  "eclipso.configuration.section.eclipso.common.toml": "Eclipso-Einstellungen",
+  "eclipso.configuration.section.eclipso.common.toml.title": "Eclipso-Einstellungen",
+  "eclipso.configuration.items": "Gegenstandsliste",
+  "eclipso.configuration.logDirtBlock": "Schmutzblock protokollieren",
+  "eclipso.configuration.magicNumberIntroduction": "Einleitungstext der magischen Zahl",
+  "eclipso.configuration.magicNumber": "Magische Zahl"
+}
